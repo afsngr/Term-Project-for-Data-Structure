@@ -1,0 +1,5 @@
+ali 55
+can 44
+deniz 25
+elif 27
+feyza 32
